@@ -1,0 +1,10 @@
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\bin\Debug\netcoreapp3.1\rpg.data.deps.json
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\bin\Debug\netcoreapp3.1\rpg.data.dll
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\bin\Debug\netcoreapp3.1\rpg.data.pdb
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\obj\Debug\netcoreapp3.1\rpg.data.csproj.AssemblyReference.cache
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\obj\Debug\netcoreapp3.1\rpg.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\obj\Debug\netcoreapp3.1\rpg.data.AssemblyInfoInputs.cache
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\obj\Debug\netcoreapp3.1\rpg.data.AssemblyInfo.cs
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\obj\Debug\netcoreapp3.1\rpg.data.csproj.CoreCompileInputs.cache
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\obj\Debug\netcoreapp3.1\rpg.data.dll
+C:\Users\Master\source\repos\Role-Playing Game\rpg.data\obj\Debug\netcoreapp3.1\rpg.data.pdb

@@ -5,5 +5,9 @@
     <RootNamespace>Role_Playing_Game</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\rpg.data\rpg.data.csproj" />
+  </ItemGroup>
+
 
 </Project>
